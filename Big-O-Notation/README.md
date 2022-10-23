@@ -47,7 +47,7 @@ merge sort and quick sort algorithms both use linear logarithmic time (O(Nlog(N)
 
 ## less efficient
 
-1. O(Nlog(N)) - linear logarithmic time
+1. O(N log(N)) - linear logarithmic time
 
 ## inefficient
 
