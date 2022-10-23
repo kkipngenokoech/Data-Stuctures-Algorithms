@@ -6,6 +6,8 @@ Big O is short hand of order of, algorithm's rate of growth in terms of time tak
 
 Big O can be used to find out worst-case-scenario, upper bound of an algorithm - absolute most number of operations that an algorithm will need to take when it executes
 
+Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
+
 Big O answers one simple question - can your algorithm scale up to deal with large data sets?
 
 ## O(1) Time
